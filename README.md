@@ -15,6 +15,10 @@
 
 6）盒子上打开冰箱冻结如下应用
 
-![screenshot20231231](https://github.com/alantang1977/AutumnBox/assets/107459091/a09b1229-1e0d-47fc-9556-ef4ff1296032)
+![screenshot20231231 (3)](https://github.com/alantang1977/AutumnBox/assets/107459091/40479691-62df-418b-bf61-777d71371c88)
 
-![screenshot20231231 (1)](https://github.com/alantang1977/AutumnBox/assets/107459091/d462d487-2bca-405a-8e74-f82395bd40ab)
+![screenshot20231231 (2)](https://github.com/alantang1977/AutumnBox/assets/107459091/34bcf0f0-6140-4370-9278-59449a6edf12)
+
+![screenshot20231231 (4)](https://github.com/alantang1977/AutumnBox/assets/107459091/779866c4-3968-4274-aa7e-60df30e13147)
+
+![screenshot20231231 (5)](https://github.com/alantang1977/AutumnBox/assets/107459091/afd45183-d001-497b-a5d6-08e013c5b3f2)
