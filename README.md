@@ -1,6 +1,7 @@
 # AutumnBox
 # 秋之盒：天猫魔盒M13-云OS6.1.0系统精简去广告方法
 
+## 最新版本下载地址：https://github.com/zsh2401/AutumnBox/releases
 
 ## 开始破解
 1）电脑上运行秋之盒工具箱，电脑和盒子在同一局域网
