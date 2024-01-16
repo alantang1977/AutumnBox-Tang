@@ -20,3 +20,6 @@
 ![3](https://github.com/alantang1977/AutumnBox-/assets/107459091/30be6251-6141-4b59-aadc-5ed1d3facfe8)
 ![4](https://github.com/alantang1977/AutumnBox-/assets/107459091/ed8965eb-31f7-4426-a82c-4c33efa557f4)
 ![5](https://github.com/alantang1977/AutumnBox-/assets/107459091/7912b0b6-50fb-4749-a369-f606366ad3ed)
+![6](https://github.com/alantang1977/AutumnBox-/assets/107459091/f6dc8b8c-eb7b-46c3-a678-5dea411d8629)
+![7](https://github.com/alantang1977/AutumnBox-/assets/107459091/f958d816-5e1b-4caf-ad78-ff2fa5b9c073)
+![8](https://github.com/alantang1977/AutumnBox-/assets/107459091/5c442840-0f5c-4601-909f-b7247bd686ff)
